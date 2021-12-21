@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I love playing video games, and I can name 10 types of crocodiles**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
