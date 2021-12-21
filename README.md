@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dilshan.mudali@gmail.com**
 
-- ⚡ Fun fact **I love playing video games, and I can name 10 types of crocodiles**
+- ⚡ Fun fact **yes, i will think of one sometime**
 
 <p align="left">
 </p>
