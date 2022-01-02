@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Express.js, node.js, next.js**
 
-- 👨‍💻 All of my projects are available at [https://dilshan-psi.vercel.app/](https://dilshan-psi.vercel.app/)
-
 - 📝 I do not regularly write articles, but the ones I wrote are at [https://medium.com/@Mudali](https://medium.com/@Mudali)
 
 - 💬 Ask me about **JavaScript, react**
