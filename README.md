@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Express.js, node.js, next.js**
 
-- 📝 I do not regularly write articles at [https://medium.com/@Mudali](https://medium.com/@Mudali)
+- 📝 View my articles at [https://medium.com/@Mudali](https://medium.com/@Mudali)
 
-- 💬 Ask me about **JavaScript, react**
+- 💬 Ask me about anything!
 
 - 📫 How to reach me **dilshan.mudali@gmail.com**
 
