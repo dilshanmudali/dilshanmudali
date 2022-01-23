@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **Express.js, node.js, next.js**
+- 🌱 I’m currently learning **GraphQL, TypeScript**
 
 - 📝 View my articles at [https://medium.com/@Mudali](https://medium.com/@Mudali)
 
