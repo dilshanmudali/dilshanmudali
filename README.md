@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **dilshan.mudali@gmail.com**
 
-- ⚡ Fun fact **yes, i will think of one sometime**
 
 <p align="left">
 </p>
