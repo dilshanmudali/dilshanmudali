@@ -5,7 +5,7 @@
 
 - 📝 View my articles at [https://medium.com/@Mudali](https://medium.com/@Mudali)
 
-- 💬 Ask me about anything!
+- 💬 Ask me about anything!!
 
 - 📫 How to reach me **dilshan.mudali@gmail.com**
 
